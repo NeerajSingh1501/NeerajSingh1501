@@ -2,17 +2,14 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" width="400" alt="gif" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 🎓 BCA 2nd Year @ Graphic Era Hill University, Dehradun  
+- 💻 DSA & Web Development Enthusiast | Java Lover  
+- 🔭 Currently building **web applications** and practicing **competitive coding**  
+- 🌱 Learning **advanced data structures and algorithms**  
+- 🏋️ Gym rat when AFK  
 
 
-<ul>
-  <li>🔭 I’m currently working on <strong>Developing new web applications</strong></li>
-  <li>🌱 I’m currently learning <strong>Advanced algorithms and data structures</strong></li>
-</ul>
-
-
-- 👨‍💻 All of my projects are available at [https://manoharsingh1311.github.io/Manohar-Portfolio/](https://manoharsingh1311.github.io/Manohar-Portfolio/)
-
--   <p>🔗 Check out my Linktree: <a href="https://linktr.ee/Manohar_Singh" target="_blank">https://linktr.ee/Manohar_Singh</a></p>
+-   <p>🔗 Check out my Linktree: <a href="https://linktr.ee/NeerajSingh1501" target="_blank">https://linktr.ee/Manohar_Singh</a></p>
 
 
 - 📫 How to reach me **neerajburathi0@gmail.com**
