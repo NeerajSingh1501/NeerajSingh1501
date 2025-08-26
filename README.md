@@ -3,7 +3,7 @@
 
 <img align="right" width="400" alt="gif" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎓 BCA 2nd Year @ Graphic Era Hill University, Dehradun  
+- 🎓 BCA Final Year @ Graphic Era Hill University, Dehradun  
 - 💻 DSA & Web Development Enthusiast | Java Lover  
 - 🔭 Currently building **web applications** and practicing **competitive coding**  
 - 🌱 Learning **advanced data structures and algorithms**  
